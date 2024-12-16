@@ -1,8 +1,14 @@
-# 🍋 Lemon Bars  
+---
+title: "Lemon Bars"  
+prep_time: "15 minutes"  
+cook_time: "35 minutes"  
+description: "A zesty dessert with a buttery crust and tangy lemon filling."  
+---  
 
-A zesty dessert with a buttery crust and tangy lemon filling.  
+# Lemon Bars Recipe  
 
-## 📝 Ingredients  
+## Ingredients  
+
 ### For the Crust  
 - 1 cup unsalted butter (softened)  
 - ½ cup powdered sugar  
@@ -15,8 +21,15 @@ A zesty dessert with a buttery crust and tangy lemon filling.
 - 2 tbsp all-purpose flour  
 - 1 tsp lemon zest  
 
-## 🥣 Instructions  
-1. Preheat oven to 350°F (175°C). Grease a baking dish.  
-2. Mix crust ingredients and press into the dish. Bake for 15 minutes.  
-3. Whisk filling ingredients and pour over baked crust.  
-4. Bake for an additional 20 minutes. Let cool, then slice into bars.  
+---
+
+## Instructions  
+
+1. **Preheat oven** to 350°F (175°C). Grease a baking dish.  
+2. **Make the crust:** Mix crust ingredients and press the mixture into the dish. Bake for 15 minutes.  
+3. **Prepare the filling:** Whisk together the filling ingredients and pour over the baked crust.  
+4. **Bake again:** Bake for an additional 20 minutes. Let cool before slicing into bars.  
+
+---
+
+Enjoy your delicious **Lemon Bars**! 🍋🍰

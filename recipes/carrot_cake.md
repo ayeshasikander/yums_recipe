@@ -1,8 +1,14 @@
-# 🥕 Carrot Cake  
+---
+title: "Carrot Cake"
+prep_time: "15 minutes"
+cook_time: "35-40 minutes"
+description: "A moist and spiced cake loaded with shredded carrots and topped with cream cheese frosting."
+---
 
-A moist and spiced cake loaded with shredded carrots and topped with cream cheese frosting.  
+# Carrot Cake Recipe
 
-## 📝 Ingredients  
+## Ingredients
+
 - 2 cups all-purpose flour  
 - 2 tsp baking soda  
 - 1 ½ tsp cinnamon  
@@ -14,9 +20,17 @@ A moist and spiced cake loaded with shredded carrots and topped with cream chees
 - 2 cups shredded carrots  
 - ½ cup chopped nuts (optional)  
 
-## 🥣 Instructions  
-1. Preheat oven to 350°F (175°C) and grease a 9x13-inch pan.  
-2. Whisk flour, baking soda, cinnamon, nutmeg, and salt in a bowl.  
-3. In another bowl, mix oil, sugar, and eggs until smooth. Fold in dry ingredients, then carrots and nuts.  
-4. Pour batter into the pan and bake for 35-40 minutes. Cool before frosting.  
-5. Frost with cream cheese frosting for the best flavor!  
+---
+
+## Instructions
+
+1. **Preheat oven to 350°F (175°C)** and grease a 9x13-inch pan.
+2. **Whisk dry ingredients:** In a bowl, whisk flour, baking soda, cinnamon, nutmeg, and salt.
+3. **Mix wet ingredients:** In another bowl, mix oil, sugar, and eggs until smooth. 
+4. **Combine wet and dry:** Fold in the dry ingredients, then add carrots and nuts.
+5. **Bake:** Pour the batter into the greased pan and bake for 35-40 minutes. Allow it to cool before frosting.
+6. **Frost:** Frost with cream cheese frosting for the best flavor!
+
+---
+
+Enjoy your delicious **Carrot Cake**! 🎂🥕

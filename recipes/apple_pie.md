@@ -1,104 +1,49 @@
-# 🧁 Apple Pie Cupcakes  
-
-Welcome to the **Apple Pie Cupcakes** recipe repository! These cupcakes combine the comforting flavors of classic apple pie with the convenience of cupcakes. A perfect dessert for any occasion! 🍎✨  
-
+---
+title: "Apple Pie"
+prep_time: "90 minutes"
+cook_time: "60 minutes"
+description: "A traditional pie with a flaky crust and a sweet, spiced apple filling, perfect for any occasion."
 ---
 
-## 🎯 Overview  
+# Classic Apple Pie
 
-Soft, moist cupcakes filled with spiced apple pie filling, topped with cinnamon frosting, and a sprinkle of pie crust crumbs. This recipe is easy to follow and guaranteed to impress!  
+## Ingredients
 
----
+### Pie Crust
+- 2 1/2 cups (315g) all-purpose flour
+- 1 teaspoon salt
+- 1 teaspoon sugar
+- 1 cup (225g) unsalted butter, chilled and diced
+- 1/4 to 1/2 cup (60-120ml) ice water
 
-## 🛠 Features  
+### Filling
+- 6 to 8 large apples, peeled, cored, and sliced (about 8 cups)
+- 3/4 cup (150g) granulated sugar
+- 2 tablespoons all-purpose flour
+- 1 teaspoon ground cinnamon
+- 1/4 teaspoon ground nutmeg
+- 1/4 teaspoon salt
+- 2 tablespoons unsalted butter, diced
+- 1 tablespoon lemon juice
 
-- **Apple Pie Twist**: Traditional apple pie flavors in cupcake form.  
-- **Customizable**: Adjust sweetness, spices, or toppings to your taste.  
-- **Family Favorite**: Loved by kids and adults alike.  
+### Egg Wash
+- 1 large egg, beaten
+- 1 tablespoon water
 
----
+## Instructions
 
-## 📝 Ingredients  
+1. **Prepare the pie crust:** In a large bowl, combine flour, salt, and sugar. Cut in butter until mixture resembles coarse crumbs. Gradually add ice water, stirring until the dough comes together. Divide dough in half, shape into discs, wrap in plastic, and refrigerate for at least 1 hour.
 
-### For the Cupcakes  
-- 1 ½ cups all-purpose flour  
-- 1 ½ tsp baking powder  
-- ½ tsp salt  
-- ½ cup unsalted butter (softened)  
-- 1 cup granulated sugar  
-- 2 large eggs  
-- 1 tsp vanilla extract  
-- ½ cup milk  
+2. **Preheat oven** to 425°F (220°C).
 
-### For the Apple Pie Filling  
-- 2 large apples (peeled, cored, and diced)  
-- 2 tbsp unsalted butter  
-- 3 tbsp brown sugar  
-- 1 tsp ground cinnamon  
-- ½ tsp nutmeg (optional)  
-- 1 tsp cornstarch mixed with 1 tbsp water (for thickening)  
+3. **Make the filling:** In a large bowl, mix sliced apples, sugar, flour, cinnamon, nutmeg, salt, and lemon juice.
 
-### For the Frosting  
-- 1 cup unsalted butter (softened)  
-- 3 cups powdered sugar  
-- 2 tbsp milk or heavy cream  
-- 1 tsp vanilla extract  
-- 1 tsp ground cinnamon  
+4. **Assemble the pie:** Roll out one dough disc on a floured surface to fit a 9-inch pie plate. Transfer to pie plate and trim the edges. Fill with apple mixture and dot with butter. Roll out the second dough disc and place it over the filling. Trim, seal, and flute the edges. Cut slits in the top crust for steam to escape.
 
-### Optional Toppings  
-- Crumbled pie crust  
-- Caramel drizzle  
+5. **Apply egg wash:** Mix the beaten egg with water and brush over the top crust.
 
----
+6. **Bake:** Bake for 15 minutes at 425°F (220°C). Reduce the temperature to 350°F (175°C) and continue baking for 35-45 minutes, or until the crust is golden and the filling is bubbly.
 
-## 🥣 Instructions  
+7. **Cool:** Allow the pie to cool on a wire rack before serving.
 
-### Step 1: Make the Cupcakes  
-1. Preheat oven to 350°F (175°C) and line a cupcake tin with liners.  
-2. In a bowl, whisk together flour, baking powder, and salt. Set aside.  
-3. In another bowl, beat butter and sugar until light and fluffy.  
-4. Add eggs one at a time, mixing well after each addition. Stir in vanilla extract.  
-5. Gradually add the dry ingredients, alternating with milk, starting and ending with the dry ingredients.  
-6. Divide the batter evenly among the cupcake liners. Bake for 18-20 minutes or until a toothpick comes out clean. Let cool completely.  
-
-### Step 2: Prepare the Apple Pie Filling  
-1. In a saucepan over medium heat, melt butter. Add apples, brown sugar, cinnamon, and nutmeg. Cook until apples are soft (~5 minutes).  
-2. Stir in the cornstarch mixture and cook until thickened. Let cool completely.  
-
-### Step 3: Make the Frosting  
-1. Beat butter until creamy. Gradually add powdered sugar, 1 cup at a time.  
-2. Add milk, vanilla, and cinnamon. Beat until smooth and fluffy. Adjust consistency with more milk if needed.  
-
-### Step 4: Assemble the Cupcakes  
-1. Use a knife or cupcake corer to remove the center of each cupcake.  
-2. Fill the hole with apple pie filling.  
-3. Pipe cinnamon frosting on top of each cupcake.  
-
-### Step 5: Add Toppings  
-1. Sprinkle crumbled pie crust or drizzle caramel over the frosting for extra flair.  
-2. Serve and enjoy!  
-
----
-
-## 📌 Tips  
-
-- **Apple Varieties**: Use Granny Smith apples for a tart flavor or Honeycrisp for sweetness.  
-- **Storage**: Store cupcakes in an airtight container in the refrigerator for up to 3 days.  
-- **Make Ahead**: Prepare the apple filling a day in advance to save time.  
-
----
-
-## 📸 Gallery  
-
-Share your creations! Post pictures of your Apple Pie Cupcakes and tag us.  
-
----
-
-## 🤝 Contributions  
-
-Have ideas to enhance this recipe? Submit a pull request or open an issue. Your feedback is welcome!  
-
----
- 
-
-Bring the cozy flavors of apple pie into every bite of these cupcakes. 🍏🧁
+Enjoy your classic apple pie with a scoop of vanilla ice cream!
