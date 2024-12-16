@@ -10,8 +10,8 @@ export default function RecipeCard(props) {
       <div className="postCard">
         <h2>{recipe.title}</h2>
         <p>{recipe.description}</p>
-        <p>{recipe.prepTime}</p>
-        <p>{recipe.cookTime}</p>
+        <p>Prep Time:{recipe.prepTime}</p>
+        <p>Cook Time:{recipe.cookTime}</p>
       </div>
     </Link>
   );

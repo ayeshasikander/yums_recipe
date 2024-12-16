@@ -13,8 +13,8 @@ export default function getRecipeData(basePath) {
         const metaResult = matter(fileContent)
         return {
             title: metaResult.data.title,
-            prepTime: metaResult.data.prepTime,
-            cookTime: metaResult.data.cookTime,
+            prepTime: metaResult.data.prep_time,
+            cookTime: metaResult.data.cook_time,
             description: metaResult.data.description,
             slug: fileName.replace(".md", ""),
             // ...metaResult.data

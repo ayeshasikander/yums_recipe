@@ -36,7 +36,7 @@ export async function generateMetadata({ params, searchParams }) {
 const RecipePage = (props) => {
   const  slug  = props.params.slug;
   const data = getRecipeContent(slug);
-  console.log(data)
+  // console.log(data)
   return (
     <main>
       <h1>Recipe Page</h1>
